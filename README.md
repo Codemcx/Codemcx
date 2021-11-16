@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @Codemcx
+- 👀 I am interested in becoming a Data Science expert
+- 🌱 I am currently learning python
